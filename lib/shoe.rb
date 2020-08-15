@@ -9,5 +9,8 @@ class Shoe
   end
   
   def color
+    @color
+  end
+  
     
 end
